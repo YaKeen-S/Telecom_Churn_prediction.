@@ -10,6 +10,7 @@
     "kernelspec": {
       "name": "python3",
       "display_name": "Python 3"
+"description": "Telecom_churn_dscription",
     },
     "language_info": {
       "name": "python"
